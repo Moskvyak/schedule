@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<JobList /> should render with required props 1`] = `
+<div
+  className="joblist__wrapper"
+>
+  <div
+    className="joblist-item__wrapper"
+  >
+    <div
+      className="joblist-item__title"
+    >
+      <span>
+        testName
+      </span>
+       - 
+      test
+    </div>
+    <div
+      className="joblist-item__time-period"
+    >
+      09/01/2018 11:00 AM
+       - 
+      09/01/2018 12:00 PM
+    </div>
+  </div>
+  <div
+    className="joblist-item__wrapper"
+  >
+    <div
+      className="joblist-item__title"
+    >
+      <span>
+        testName2
+      </span>
+       - 
+      test2
+    </div>
+    <div
+      className="joblist-item__time-period"
+    >
+      09/01/2018 11:00 AM
+       - 
+      09/01/2018 12:00 PM
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,10 @@
+.question-two__action-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+.question-two__action-wrapper svg {
+    margin: 10px;
+    cursor: pointer;
+}

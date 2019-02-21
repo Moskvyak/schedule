@@ -1,0 +1,32 @@
+.calendar-header__wrapper {
+  display: flex;
+  height: 40px;
+  margin-top: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.calendar-header__timelane {
+  flex: 0 0 95px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.calendar-header__timelane svg {
+  cursor: pointer;
+}
+
+.calendar-header__card {
+  width: 202px;
+  margin: 0 20px;
+  padding: 0 20px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.calendar-header__card:nth-child(2) {
+  margin-left: 0;
+}
+.calendar-header__card h3 {
+  margin: 0;
+}

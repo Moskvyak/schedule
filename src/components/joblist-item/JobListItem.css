@@ -1,0 +1,20 @@
+.joblist-item__wrapper {
+  border-left: 5px solid green;
+  line-height: 2em;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+
+.joblist-item__time-period {
+  font-size: 1em;
+  color: #757575;
+}
+.joblist-item__title {
+  font-size: 1.2em;
+  color: #424242;
+}
+.joblist-item__title span {
+  color: #212121;
+}
+

@@ -1,0 +1,32 @@
+.searchform__wrapper {
+    position: relative;
+    padding: 20px;
+}
+.searchform__wrapper input {
+    width: calc(100% - 124px);
+    font-size: 1.6em;
+    font-weight: 600;
+    color: #000;
+    padding-left:   62px;
+    padding-right:  62px;
+    height: 48px;
+    outline: 0;
+}
+
+.searchform__left-icon {
+    position: absolute;
+    bottom: 32px;
+    left: 38px;
+}
+.searchform__right-icon {
+    position: absolute;
+    bottom: 32px;
+    right: 38px;
+}
+.searchform__error-message {
+    color: #ff4f4f;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,0 )
+}

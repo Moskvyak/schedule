@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CalendarView /> should render with required props 1`] = `
+Array [
+  <div
+    className="calendar-header__wrapper"
+>
+    <div
+        className="calendar-header__timelane"
+    >
+        <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-plus fa-w-14 fa-lg "
+            data-icon="plus"
+            data-prefix="fas"
+            focusable="false"
+            onClick={[Function]}
+            role="img"
+            style={Object {}}
+            viewBox="0 0 448 512"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+            <path
+                d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                fill="currentColor"
+                style={Object {}}
+            />
+        </svg>
+        <svg
+            aria-hidden="true"
+            className="svg-inline--fa fa-minus fa-w-14 fa-lg "
+            data-icon="minus"
+            data-prefix="fas"
+            focusable="false"
+            onClick={[Function]}
+            role="img"
+            style={Object {}}
+            viewBox="0 0 448 512"
+            xmlns="http://www.w3.org/2000/svg"
+        >
+            <path
+                d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+                fill="currentColor"
+                style={Object {}}
+            />
+        </svg>
+    </div>
+    <div
+        className="calendar-header__card"
+    >
+        <h3 />
+    </div>
+    <div
+        className="calendar-header__card"
+    >
+        <h3 />
+    </div>
+</div>,
+  <div
+    className="calendar-view__body"
+    style={
+        Object {
+            "height": 1920,
+          }
+    }
+>
+    <div
+        className="calendar-time-grid__wrapper"
+        style={
+            Object {
+                "height": 1920,
+              }
+        }
+    >
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            12:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            1:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            2:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            3:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            4:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            5:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            6:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            7:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            8:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            9:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            10:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            11:00 AM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            12:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            1:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            2:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            3:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            4:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            5:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            6:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            7:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            8:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            9:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            10:00 PM
+        </div>
+        <div
+            className="calendar-time-grid__row"
+            style={
+                Object {
+                    "height": 80,
+                    "lineHeight": "79px",
+                  }
+            }
+        >
+            11:00 PM
+        </div>
+    </div>
+    <div
+        className="calendar-view__card"
+        style={
+            Object {
+                "height": 1920,
+              }
+        }
+    />
+    <div
+        className="calendar-view__card"
+        style={
+            Object {
+                "height": 1920,
+              }
+        }
+    />
+</div>,
+]
+`;

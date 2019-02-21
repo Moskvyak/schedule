@@ -1,0 +1,18 @@
+.calendar-view__body {
+  display: flex;
+  max-height: 600px;
+  overflow: scroll;
+  position: relative;
+  padding-left: 75px;
+}
+
+.calendar-view__card {
+  position: relative;
+  width: 200px;
+  margin: 0 20px;
+  padding: 0 20px 20px 20px;
+  border-left: 1px solid #888;
+  border-right: 1px solid #888;
+  background: rgba(255, 255, 255, 0.75);
+  z-index: 1;
+}
